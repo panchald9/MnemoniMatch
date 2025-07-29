@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mnemonic Match</string>
+
+    <string name="choose_difficulty">Choose Difficulty</string>
+
+    <string-array name="level_options">
+        <item>Very Easy</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Very Hard</item>
+    </string-array>
+</resources>
